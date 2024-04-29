@@ -11,7 +11,7 @@ This dataset is available for free in kaggle. ![](https://storage.googleapis.com
 
 **Tools and Libraries:**
 
-Used Tensorflow for model training, the model is trained on T4 GPU.
+Used Tensorflow for model training.
 
 **DataPreparation:**
 
